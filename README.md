@@ -13,3 +13,24 @@ Training concludes with Score-CAM visualizations that provide intuitive insight 
 This notebook serves both as a strong classification baseline and an interpretability toolkit for BCI-related image classification tasks.
 
 Get the dataset: https://zenodo.org/records/15179608
+
+📈 Outputs;
+
+🔹 Confusion Matrix
+
+![confusion_40x_patch](https://github.com/user-attachments/assets/555dd796-1c06-4dad-af77-a1f45e980e44)
+
+
+🔹 ROC Curve (Macro AUC)
+![40x-auc-patch](https://github.com/user-attachments/assets/4e1dd57f-7b43-4f50-b4d6-215dd9c9596c)
+
+
+🔹 Train and Validation Accuracy
+
+![40x-patch](https://github.com/user-attachments/assets/04217f0f-87b7-43b6-a514-d9153b1b8702)
+
+
+🔹 Score-CAM visualization 
+
+![xai-patch](https://github.com/user-attachments/assets/9c252ae9-0f9f-4d06-ac72-7c1f940efc0d)
+
