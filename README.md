@@ -11,3 +11,5 @@ The dataset is organized into class-specific directories and processed using sta
 Training concludes with Score-CAM visualizations that provide intuitive insight into model focus areas, enabling a bridge between model predictions and human-interpretable evidence.
 
 This notebook serves both as a strong classification baseline and an interpretability toolkit for BCI-related image classification tasks.
+
+Get the dataset: https://zenodo.org/records/15179608
